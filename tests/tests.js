@@ -2,7 +2,7 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
-registerManualTests('chrome.idle', function(rootEl, addButton) {
+exports.defineManualTests = function(rootEl, addButton) {
   addButton('Query state', function() {
     var detectionIntervalInSeconds = 10;
     var queryStateCallback = function(state) {
@@ -27,5 +27,4 @@ registerManualTests('chrome.idle', function(rootEl, addButton) {
     logger('State changed: ' + state);
   };
   chrome.idle.onStateChanged.addListener(stateListener);
-});
-
+};
