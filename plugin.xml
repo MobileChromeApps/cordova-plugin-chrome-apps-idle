@@ -13,8 +13,8 @@
 
   <name>Chrome Apps Idle API</name>
   <keywords>chrome,idle</keywords>
-  <repo>https://github.com/MobileChromeApps/mobile-chrome-apps.git</repo>
-  <issue>https://github.com/MobileChromeApps/mobile-chrome-apps/issues</issue>
+  <repo>https://github.com/MobileChromeApps/cordova-plugin-chrome-apps-idle.git</repo>
+  <issue>https://github.com/MobileChromeApps/cordova-plugin-chrome-apps-idle/issues</issue>
 
   <js-module src="idle.js" name="idle">
     <clobbers target="chrome.idle" />
