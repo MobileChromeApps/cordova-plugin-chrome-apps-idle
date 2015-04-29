@@ -1,0 +1,33 @@
+{
+  "name": "cordova-plugin-chrome-apps-idle",
+  "version": "1.0.4-dev",
+  "description": "This plugin provides the ability to listen and check for the idle status of a device.",
+  "cordova": {
+    "id": "cordova-plugin-chrome-apps-idle",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MobileChromeApps/cordova-plugin-chrome-apps-idle.git"
+  },
+  "keywords": [
+    "chrome",
+    "idle",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MobileChromeApps/cordova-plugin-chrome-apps-idle/issues"
+  },
+  "homepage": "https://github.com/MobileChromeApps/cordova-plugin-chrome-apps-idle"
+}
