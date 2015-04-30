@@ -17,6 +17,9 @@ The API reference is [here](http://developer.chrome.com/apps/idle.html).
 
 # Release Notes
 
+## 1.0.4 (April 30, 2015)
+- Renamed plugin to pubilsh to NPM
+
 ## 1.0.3 (Jan 27, 2015)
 * Fix NPE in ChromeIdle.java
 
