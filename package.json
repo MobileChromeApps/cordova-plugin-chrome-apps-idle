@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-chrome-apps-idle",
-  "version": "1.0.4",
+  "version": "1.0.5-dev",
   "description": "This plugin provides the ability to listen and check for the idle status of a device.",
   "cordova": {
     "id": "cordova-plugin-chrome-apps-idle",
